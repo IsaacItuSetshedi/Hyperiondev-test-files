@@ -2,7 +2,7 @@
 
 Section B: A simple calculator was made in C# language.
 
-Section B: Simply download the calculator, run the .exe and start calculating.
+Section B: Simply download the calculator, run the lstcalc.exe and start calculating.
 
 Section A - code corrections: Have been oploaded as a Python notebook which includes comments.
 
